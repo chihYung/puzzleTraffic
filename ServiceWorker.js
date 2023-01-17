@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Trafficlight-1.0";
 const contentToCache = [
     "Build/puzzleTraffic.loader.js",
-    "Build/puzzleTraffic.framework.js",
-    "Build/puzzleTraffic.data",
-    "Build/puzzleTraffic.wasm",
+    "Build/puzzleTraffic.framework.js.unityweb",
+    "Build/puzzleTraffic.data.unityweb",
+    "Build/puzzleTraffic.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
