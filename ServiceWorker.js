@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Trafficlight-1.0";
 const contentToCache = [
     "Build/Webgame.loader.js",
-    "Build/Webgame.framework.js.unityweb",
-    "Build/Webgame.data.unityweb",
-    "Build/Webgame.wasm.unityweb",
+    "Build/Webgame.framework.js.gz",
+    "Build/Webgame.data.gz",
+    "Build/Webgame.wasm.gz",
     "TemplateData/style.css"
 
 ];
